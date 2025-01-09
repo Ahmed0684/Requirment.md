@@ -13,9 +13,9 @@ Are ratings and feedback stored securely and linked correctly to the product?
 Can the system handle large volumes of ratings and feedback without performance degradation?
 2. Age Verification for Alcoholic Products
 Functional Testing:
-Can users navigate back to the main site without completing the age verification process?
-Are there measures in place to ensure compliance with local laws regarding age verification?
-Does the age verification modal appear when accessing the alcoholic products category?
+Can users navigate to the main site without completing the age verification process?
+Are there measures to ensure compliance with local laws regarding age verification?
+Does the age verification model appear when accessing the category of alcoholic products?
 Does the system correctly block access if the user inputs an age below 18?
 3. Shipping Cost Changes
 Functional Testing:
