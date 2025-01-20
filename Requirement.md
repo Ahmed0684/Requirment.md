@@ -1,11 +1,10 @@
-Critical Questions for Testing New Features
-1. Product Rating System
+Testing New Features:
+1. Product Rating System.
 Requirement: Users should be able to rate products with a 5-star system and have the option to add written feedback.
 
-Critical Questions
 Functionality:
 
-Do you think users could submit a star rating without adding written feedback? If so, how is it displayed?
+Could users submit a star rating without adding written feedback? If so, how is it displayed?
 Is it possible to submit multiple reviews for the same product? If not, how is this prevented?
 How does the system handle edge cases, such as partial star ratings (e.g., 3.5 stars)?
 User Interface (UI):
@@ -48,7 +47,7 @@ Is the correct shipping fee displayed for orders below the free shipping thresho
 How does the system handle cases where an order is edited and crosses the free shipping threshold?
 User Interface (UI):
 
-Is the shipping cost clearly displayed during the checkout process?
+Is the shipping cost displayed during the checkout process?
 Are changes to the shipping cost dynamically updated as items are added or removed from the basket?
 Are regional settings, such as currency and shipping thresholds, displayed correctly?
 Backend/Performance:
