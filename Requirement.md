@@ -1,4 +1,4 @@
-Testing New Features:
+Critical Questions for Testing New Features:
 1. Product Rating System.
 Requirement: Users should be able to rate products with a 5-star system and have the option to add written feedback.
 
