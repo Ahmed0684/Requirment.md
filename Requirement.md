@@ -4,7 +4,7 @@ Critical Questions for Testing New Features:
 
 New features
 
-1. Age Restriction for Account Creation**
+1. Age Restriction for Account Creation.
 
 Vague Requirement:
 
@@ -18,7 +18,8 @@ How does the system handle edge cases, such as partial star ratings (e.g., 4.5 s
 
 Detailed requirements:
 
-Users can rate a product by selecting between 1 to 5 stars, and Rating options should be interactive and visually intuitive, also Users can submit a rating without leaving written feedback.
+Users can rate a product by selecting between 1 and 5 stars, rating options should be interactive and visually intuitive.
+Users can also submit a rating without leaving written feedback.
 
 2. Age Verification for Alcoholic Products
 
@@ -40,13 +41,13 @@ The purpose is to ensure compliance with legal regulations by verifying a userâ€
 
 Vague Requirement:
 
--> Free shipping for orders above a certain amount. Orders below this amount will incur a shipping fee.
+-> Free shipping is available for orders above a certain amount. Orders below this amount will incur a shipping fee.
 
 Questions:
 
 Is the correct shipping fee displayed for orders below the free shipping threshold?
 Is free shipping automatically applied when the order total exceeds the threshold?
-Are changes to the shipping cost dynamically updated as items are - added or removed from the basket?
+Are changes to the shipping cost dynamically updated as items are added or removed from the basket?
 Detailed Requirement:
 
 Set a configurable threshold amount for free shipping (e.g., $50).
